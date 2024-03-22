@@ -1,0 +1,34 @@
+.hea {
+    padding: 20px;
+    justify-content: space-around;
+    background-color: chartreuse;
+    display: flex;
+    font-size: 18px;
+    font-weight: bold; /* Adjusted font-weight to bold */
+    border: 2px solid black;
+    text-align: center;
+    color: black; /* Changed text color to black */
+    cursor: pointer; 
+    container: hea 50px;  
+}
+ 
+table,th{
+    border: 2px solid black;
+   justify-content: space-around;
+   text-align: center;
+   background-size: cover;
+   border: 2px solid black;
+
+}
+.thing{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+@media only screen and (max-width:640px)
+{
+table{
+    
+}
+    
+}
